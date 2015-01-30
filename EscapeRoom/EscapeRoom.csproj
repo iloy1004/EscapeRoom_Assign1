@@ -65,8 +65,37 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Css\main.css" />
+    <Content Include="Css\reset.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\1.jpg" />
+    <Content Include="Images\11.jpg" />
+    <Content Include="Images\L2.jpg" />
+    <Content Include="Images\L22.png" />
+    <Content Include="Images\L3_1.png" />
+    <Content Include="Images\L3_2.png" />
+    <Content Include="Images\L4_1.jpg" />
+    <Content Include="Images\L4_2.png" />
+    <Content Include="Images\L4_3.jpg" />
+    <Content Include="Images\Logo.png" />
+    <Content Include="Images\R2.jpg" />
+    <Content Include="Images\R3_1.jpg" />
+    <Content Include="Images\R3_2.jpg" />
+    <Content Include="Images\R4_1.jpg" />
+    <Content Include="Images\R4_2.jpg" />
+    <Content Include="Images\R4_3.jpg" />
+    <Content Include="Images\R4_4.jpg" />
+    <Content Include="Images\sentences\1_1.jpg" />
+    <Content Include="Images\sentences\1_2.jpg" />
+    <Content Include="Images\sentences\1_3.jpg" />
+    <Content Include="Images\sentences\1_4.jpg" />
+    <Content Include="Images\sentences\1_5.jpg" />
+    <Content Include="Images\sentences\1_6.jpg" />
+    <Content Include="Images\sentences\L31_1.jpg" />
+    <Content Include="Images\sentences\L31_2.jpg" />
     <Content Include="Index.html" />
+    <Content Include="Script\impress.js" />
+    <Content Include="Script\sky_slidex.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
